@@ -1,0 +1,13 @@
+.burger {
+    width: 250px;
+    height: 250px;
+}
+
+
+.block-to-inline {
+    display: inline;
+}
+
+.inline-to-block {
+    display: block;
+}
